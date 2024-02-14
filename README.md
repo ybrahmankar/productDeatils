@@ -7,7 +7,7 @@ cd repository
 
 step 3 : Install dependencies
 npm install
-# or
+or
 yarn
 
 step 4 : Start the development server
@@ -15,7 +15,7 @@ npx react-native start
 
 step 5 : Run the application
 npx react-native run-android
-# or
+or
 npx react-native run-ios
 
 
