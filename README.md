@@ -1,6 +1,6 @@
 
 step 1 : Clone the repository
-git clone https://github.com/ybrahmankar/productDeatils
+git clone [https://github.com/ybrahmankar/productDeatils](https://github.com/ybrahmankar/productDeatils.git)
 
 step 2 : Navigate to the project directory
 cd repository
